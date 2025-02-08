@@ -1,10 +1,10 @@
 <!-- Intro-->
 
 <div align="center">
-    <a href="https://github.com/AsadFattani/OOP-24K-0721/blob/main/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/AsadFattani/24K-0721?color=ff69b4&style=for-the-badge"></a>
-    <a href="https://github.com/AsadFattani/OOP-24K-0721/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/AsadFattani/24K-0721?color=yellow&label=Project%20Stars&style=for-the-badge"></a>
-    <a href="https://github.com/AsadFattani/OOP-24K-0721/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/AsadFattani/24K-0721?color=brightgreen&label=issues&style=for-the-badge"></a>
-    <a href="https://github.com/AsadFattani/OOP-24K-0721/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/AsadFattani/24K-0721?color=9cf&label=forks&style=for-the-badge"></a>
+    <a href="https://github.com/AsadFattani/OOP-24K-0721/blob/main/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/AsadFattani/OOP-24K-0721?color=ff69b4&style=for-the-badge"></a>
+    <a href="https://github.com/AsadFattani/OOP-24K-0721/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/AsadFattani/OOP-24K-0721?color=yellow&label=Project%20Stars&style=for-the-badge"></a>
+    <a href="https://github.com/AsadFattani/OOP-24K-0721/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/AsadFattani/OOP-24K-0721?color=brightgreen&label=issues&style=for-the-badge"></a>
+    <a href="https://github.com/AsadFattani/OOP-24K-0721/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/AsadFattani/OOP-24K-0721?color=9cf&label=forks&style=for-the-badge"></a>
 </div>
 <br>
 
