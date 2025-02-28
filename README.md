@@ -75,9 +75,9 @@ This repository is dedicated to my work in the **Object-Oriented Programming (OO
 
 ## Project Roadmap  
 - [x] Set up repository and README template.  
-- [ ] Transisition from C to C++ (sample questions).  
-- [ ] Add examples of basic OOP concepts (e.g., classes, objects, and methods).  
-- [ ] Complete first lab assignment.  
+- [x] Transisition from C to C++ (sample questions).  
+- [x] Add examples of basic OOP concepts (e.g., classes, objects, and methods).  
+- [x] Complete first lab assignment.  
 - [ ] Document class inheritance and polymorphism exercises.  
 - [ ] Add exception handling examples.  
 - [ ] Submit project work and final assignment.  
